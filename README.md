@@ -34,6 +34,7 @@
             Создатель: Frein
                       Найти меня [https://tapy.me/frein]  
 
-![Без имени-6](https://user-images.githubusercontent.com/129336995/230960920-795b9b0c-a06c-4b84-8ec8-a548c9336f05.png)
+![Без имени-66](https://user-images.githubusercontent.com/129336995/230961164-a570fa94-4ea7-459c-92d8-731e6833724c.png)
+
 
 

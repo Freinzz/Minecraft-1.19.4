@@ -30,9 +30,9 @@
 Я:  Да, так как это очень простое занятие которое мне нравиться. 
 
 
-Версия - betaF+ - 0.4 
-Создатель: Frein
-Найти меня [https://tapy.me/frein] 
+ Версия - betaF+ - 0.4 
+            Создатель: Frein
+                      Найти меня [https://tapy.me/frein]  
 ![Без имени-3](https://user-images.githubusercontent.com/129336995/230958867-793afc10-109b-4e5c-bf85-33a3a801a9a7.png)
 
 

@@ -31,7 +31,8 @@
 
 
 Версия - betaF+ - 0.4 
-Создатель сборки - Frein 
+Создатель: Frein
 Найти меня [https://tapy.me/frein] 
+Создатель сборки - Frein ![Без имени-3](https://user-images.githubusercontent.com/129336995/230958867-793afc10-109b-4e5c-bf85-33a3a801a9a7.png)
 
-![avatarHead](https://user-images.githubusercontent.com/129336995/230957618-9ea71db7-8388-4f7e-b773-d3ceabedcc50.png)
+

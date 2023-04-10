@@ -29,6 +29,9 @@
 Вы: Ты занимаешь поисками модов бесплатно? 
 Я:  Да, так как это очень простое занятие которое мне нравиться. 
 
+
 Версия - betaF+ - 0.4 
 Создатель сборки - Frein 
 Найти меня [https://tapy.me/frein] 
+
+![avatarHead](https://user-images.githubusercontent.com/129336995/230957618-9ea71db7-8388-4f7e-b773-d3ceabedcc50.png)

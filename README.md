@@ -9,7 +9,7 @@
 
 В `первой` папке fabric 1.19.4 содержится две папки `config, mods` их нужно поместить в папку `.minecraft` или `.tlauncher\legacy\Minecraft\game` (Это актуально для TL legace) если Windows сообщит о замене, соглашайтесь. 
 
-Во второй папке `Ресурс-пак 1.19.4` содержаться 1 официальный текстур-пак сервера и 3 дополнительных их  нужно перенести по пути `.minecraft\resourcepacks` или `.tlauncher\legacy\Minecraft\game\resourcepacks` (Это актуально для TL legace) если Windows сообщит о замене, соглашайтесь.
+Во `второй` папке `Ресурс-пак 1.19.4` содержаться 1 официальный текстур-пак сервера и 3 дополнительных их  нужно перенести по пути `.minecraft\resourcepacks` или `.tlauncher\legacy\Minecraft\game\resourcepacks` (Это актуально для TL legace) если Windows сообщит о замене, соглашайтесь.
 
 **Частые вопросы:** 
 

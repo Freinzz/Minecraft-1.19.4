@@ -13,7 +13,7 @@
 
  `Версия` - betaF+ - 0.4 
  `Создатель:` Frein
- `Найти меня` [тут] (https://tapy.me/frein) 
+ `Найти меня` [тут](https://tapy.me/frein) 
 
 ![Без имени-66](https://user-images.githubusercontent.com/129336995/230961164-a570fa94-4ea7-459c-92d8-731e6833724c.png)
 
